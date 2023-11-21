@@ -11,6 +11,7 @@
 #Masters Research Assistant in the Department of Civil and Environmental Engineering
 #Internship with GZA GeoEnvironmental in Providence, RI
 #Internship with Wohl and O'Mara in Staten Island, NY
+#Vice President of EWB at URI
 
 
 
