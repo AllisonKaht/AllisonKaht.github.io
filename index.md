@@ -2,21 +2,17 @@
 
 ---
 ### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#Attends University of Rhode Island
+#Completed Undergraduate Degree in Civil and Environmental Engineering
+#Currently in Masters Program in Civil and Environmental Engineering with a focus in Geotechnical Engineering
 
 ---
 ### Work Experience
+#Masters Research Assistant in the Department of Civil and Environmental Engineering
+#Internship with GZA GeoEnvironmental in Providence, RI
+#Internship with Wohl and O'Mara in Staten Island, NY
 
 
----
-### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
-
----
 
 
 
